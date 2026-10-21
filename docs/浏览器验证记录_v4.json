@@ -1,0 +1,706 @@
+[
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+    "checks": [
+      {
+        "name": "24 real illustrations load",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "time based auto scroll about 50 units per second",
+        "pass": true,
+        "detail": "55.45999999999913"
+      },
+      {
+        "name": "pause freezes position",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "drag follows pointer",
+        "pass": true,
+        "detail": "280"
+      },
+      {
+        "name": "drag does not open a card",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "momentum continues after release",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "bird filter",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "search by feature",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "search returns Xingxing",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "empty state",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "detail source is real primary text",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "saved state persists in browser storage",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "next entry opens",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "bring creature into atelier",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "sliders change actual pixels",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "reset is deterministic",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "comparison divider responds",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "export downloads PNG",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "saved filter contains selected creature",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "collection survives reload",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "chapter filter finds six southern entries",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "chapter and kind filters compose",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "third shape filter composes",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "incompatible filter combination has empty state",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "clear all filters restores 24 entries",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "toneless pinyin search finds Fuzhu",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "new water category has three creatures",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "gallery supports two comparison selections",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "comparison shows distinct primary-text forms",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "duplicate comparison prevents export",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "comparison swaps both selectors",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "comparison note downloads",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "new entry has Shan Hai Jing chapter source",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "detail opens comparison without stacked dialogs",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "comparison locks background scroll",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "chapter explorer displays Fuzhu",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "chapter explorer links to actual chapter",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "chapter explorer drives gallery filter",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "reading mark persists to storage",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "opening a detail retains keyboard return focus",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "newly added creatures have a dedicated discovery filter",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "repeat encounter does not double count",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "encounter filter matches unique opened entries",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "backup downloads as JSON",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "import adds valid IDs and ignores unknown entries",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "invalid JSON leaves existing collection intact",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "oversized backup is rejected before data mutation",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "quiz starts with four actual choices",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "wrong answer locks choices",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "wrong answer reveals primary-source explanation",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "wrong answer persists for review",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "five-question score is computed from answers",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "best score survives in storage",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "four actual mistakes remain",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "mistake review uses stored mistaken creatures",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "correct review removes a mistake",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "six bibliography chapters are rendered",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "reading progress survives reload",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "mistake book survives reload",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "atelier processes a newly generated character",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "mobile no horizontal overflow",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "mobile card band visible",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "mobile shortcut opens comparison",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "mobile comparison has no horizontal overflow",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "mobile shortcut reaches quiz",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "reduced motion stops autoplay",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "reduced motion disables image animation",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "no script runtime errors",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "no failed resource responses",
+        "pass": true,
+        "detail": ""
+      }
+    ],
+    "browser": "chrome",
+    "date": "2026-10-21"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+    "checks": [
+      {
+        "name": "24 real illustrations load",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "time based auto scroll about 50 units per second",
+        "pass": true,
+        "detail": "55.75999999999931"
+      },
+      {
+        "name": "pause freezes position",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "drag follows pointer",
+        "pass": true,
+        "detail": "280"
+      },
+      {
+        "name": "drag does not open a card",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "momentum continues after release",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "bird filter",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "search by feature",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "search returns Xingxing",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "empty state",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "detail source is real primary text",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "saved state persists in browser storage",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "next entry opens",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "bring creature into atelier",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "sliders change actual pixels",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "reset is deterministic",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "comparison divider responds",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "export downloads PNG",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "saved filter contains selected creature",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "collection survives reload",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "chapter filter finds six southern entries",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "chapter and kind filters compose",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "third shape filter composes",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "incompatible filter combination has empty state",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "clear all filters restores 24 entries",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "toneless pinyin search finds Fuzhu",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "new water category has three creatures",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "gallery supports two comparison selections",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "comparison shows distinct primary-text forms",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "duplicate comparison prevents export",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "comparison swaps both selectors",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "comparison note downloads",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "new entry has Shan Hai Jing chapter source",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "detail opens comparison without stacked dialogs",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "comparison locks background scroll",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "chapter explorer displays Fuzhu",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "chapter explorer links to actual chapter",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "chapter explorer drives gallery filter",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "reading mark persists to storage",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "opening a detail retains keyboard return focus",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "newly added creatures have a dedicated discovery filter",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "repeat encounter does not double count",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "encounter filter matches unique opened entries",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "backup downloads as JSON",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "import adds valid IDs and ignores unknown entries",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "invalid JSON leaves existing collection intact",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "oversized backup is rejected before data mutation",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "quiz starts with four actual choices",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "wrong answer locks choices",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "wrong answer reveals primary-source explanation",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "wrong answer persists for review",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "five-question score is computed from answers",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "best score survives in storage",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "four actual mistakes remain",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "mistake review uses stored mistaken creatures",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "correct review removes a mistake",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "six bibliography chapters are rendered",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "reading progress survives reload",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "mistake book survives reload",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "atelier processes a newly generated character",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "mobile no horizontal overflow",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "mobile card band visible",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "mobile shortcut opens comparison",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "mobile comparison has no horizontal overflow",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "mobile shortcut reaches quiz",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "reduced motion stops autoplay",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "reduced motion disables image animation",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "no script runtime errors",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "no failed resource responses",
+        "pass": true,
+        "detail": ""
+      }
+    ],
+    "browser": "edge",
+    "date": "2026-10-21"
+  }
+]

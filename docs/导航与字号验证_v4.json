@@ -1,0 +1,188 @@
+{
+  "checks": [
+    {
+      "name": "1920 header is fixed to viewport",
+      "pass": true
+    },
+    {
+      "name": "1920 page has no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "1920 badge clears navigation and title",
+      "pass": true
+    },
+    {
+      "name": "1920 header stays at top while scrolling",
+      "pass": true
+    },
+    {
+      "name": "1920 scrolled header gets readable background",
+      "pass": true
+    },
+    {
+      "name": "1920 navigation uses real unscaled readable type",
+      "pass": true
+    },
+    {
+      "name": "1920 main body text is at least 17 px",
+      "pass": true
+    },
+    {
+      "name": "1920 anchor headings clear fixed header",
+      "pass": true
+    },
+    {
+      "name": "1366 header is fixed to viewport",
+      "pass": true
+    },
+    {
+      "name": "1366 page has no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "1366 badge clears navigation and title",
+      "pass": true
+    },
+    {
+      "name": "1366 header stays at top while scrolling",
+      "pass": true
+    },
+    {
+      "name": "1366 scrolled header gets readable background",
+      "pass": true
+    },
+    {
+      "name": "1366 navigation uses real unscaled readable type",
+      "pass": true
+    },
+    {
+      "name": "1366 main body text is at least 17 px",
+      "pass": true
+    },
+    {
+      "name": "1366 anchor headings clear fixed header",
+      "pass": true
+    },
+    {
+      "name": "1280 header is fixed to viewport",
+      "pass": true
+    },
+    {
+      "name": "1280 page has no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "1280 badge clears navigation and title",
+      "pass": true
+    },
+    {
+      "name": "1280 header stays at top while scrolling",
+      "pass": true
+    },
+    {
+      "name": "1280 scrolled header gets readable background",
+      "pass": true
+    },
+    {
+      "name": "1280 navigation uses real unscaled readable type",
+      "pass": true
+    },
+    {
+      "name": "1280 main body text is at least 17 px",
+      "pass": true
+    },
+    {
+      "name": "1280 anchor headings clear fixed header",
+      "pass": true
+    },
+    {
+      "name": "1024 header is fixed to viewport",
+      "pass": true
+    },
+    {
+      "name": "1024 page has no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "1024 badge clears navigation and title",
+      "pass": true
+    },
+    {
+      "name": "1024 header stays at top while scrolling",
+      "pass": true
+    },
+    {
+      "name": "1024 scrolled header gets readable background",
+      "pass": true
+    },
+    {
+      "name": "1024 navigation uses real unscaled readable type",
+      "pass": true
+    },
+    {
+      "name": "1024 main body text is at least 17 px",
+      "pass": true
+    },
+    {
+      "name": "1024 anchor headings clear fixed header",
+      "pass": true
+    },
+    {
+      "name": "821 header is fixed to viewport",
+      "pass": true
+    },
+    {
+      "name": "821 page has no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "821 badge clears navigation and title",
+      "pass": true
+    },
+    {
+      "name": "821 header stays at top while scrolling",
+      "pass": true
+    },
+    {
+      "name": "821 scrolled header gets readable background",
+      "pass": true
+    },
+    {
+      "name": "821 navigation uses real unscaled readable type",
+      "pass": true
+    },
+    {
+      "name": "821 main body text is at least 17 px",
+      "pass": true
+    },
+    {
+      "name": "821 anchor headings clear fixed header",
+      "pass": true
+    },
+    {
+      "name": "390 header is fixed to viewport",
+      "pass": true
+    },
+    {
+      "name": "390 page has no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "390 badge clears navigation and title",
+      "pass": true
+    },
+    {
+      "name": "390 header stays at top while scrolling",
+      "pass": true
+    },
+    {
+      "name": "390 scrolled header gets readable background",
+      "pass": true
+    },
+    {
+      "name": "mobile shortcut sits beneath fixed header",
+      "pass": true
+    }
+  ]
+}
