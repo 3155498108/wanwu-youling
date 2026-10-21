@@ -1,2 +1,2 @@
-@echo off
-call "%~dp0Start-Shanhai.cmd"
+@echo off
+call "%~dp0Start-Shanhai.cmd"
