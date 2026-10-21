@@ -1,0 +1,580 @@
+[
+  {
+    "id": "lushu",
+    "name": "鹿蜀",
+    "pinyin": "lù shǔ",
+    "chapter": "南山經",
+    "mountain": "杻阳之山",
+    "kind": "走兽",
+    "title": "白首赤尾，鸣声如歌",
+    "quote": "其狀如馬而白首，其文如虎而赤尾，其音如謠，其名曰鹿蜀。",
+    "desc": "马的身形、雪白的头、虎一般的纹理与赤红长尾，构成这位南山异兽的鲜明轮廓。它的声音像人在歌唱。原文还记载了与子孙繁衍有关的古代信仰。",
+    "features": [
+      "马身白首",
+      "虎纹赤尾",
+      "鸣声如谣"
+    ],
+    "concept": "将虎纹与马身作为识别核心，以朱砂长尾呼应山间流云。插画中的山石、云气与植物属于艺术演绎。",
+    "color": "#a0442f",
+    "source": "https://zh.wikisource.org/wiki/山海經/南山經",
+    "image": "assets/generated/lushu-v1.webp",
+    "traits": [
+      "白首"
+    ],
+    "isNew": false
+  },
+  {
+    "id": "bifang",
+    "name": "毕方",
+    "pinyin": "bì fāng",
+    "chapter": "西山經",
+    "mountain": "章莪之山",
+    "kind": "羽族",
+    "title": "青羽赤文，一足而立",
+    "quote": "其狀如鶴，一足，赤文青質而白喙，名曰畢方。",
+    "desc": "毕方是一种像鹤的独足鸟，青色身体上有红色纹样，鸟喙为白色。它的鸣叫像在呼唤自己的名字。古人将它的出现与火灾征兆联系起来。独足是关键，原文没有说它只有一翼。",
+    "features": [
+      "鹤形独足",
+      "赤文青质",
+      "白喙自鸣"
+    ],
+    "concept": "以石青羽色和朱砂斑纹形成冷暖对照，少量火焰表现古籍中的火兆联想，并非对真实生物的复原。",
+    "color": "#34636c",
+    "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "image": "assets/generated/bifang-v1.webp",
+    "traits": [
+      "有翼",
+      "独足"
+    ],
+    "isNew": false
+  },
+  {
+    "id": "dijiang",
+    "name": "帝江",
+    "pinyin": "dì jiāng",
+    "chapter": "西山經",
+    "mountain": "天山",
+    "kind": "神祇",
+    "title": "六足四翼，浑敦无面",
+    "quote": "其狀如黃囊，赤如丹火，六足四翼，渾敦無面目。",
+    "desc": "天山有神，形体像囊袋，颜色赤红如火，六只足、四片翼，没有面目，却能识歌舞。无面而能歌舞的形象，让帝江成为上古想象中极独特的存在。",
+    "features": [
+      "六足四翼",
+      "浑敦无面",
+      "能识歌舞"
+    ],
+    "concept": "保留囊状身躯与无面特征，用朱砂主体和轻盈的翼表现歌舞节律。不可添加眼睛、嘴或鸟头。",
+    "color": "#a74732",
+    "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "image": "assets/generated/dijiang-v1.webp",
+    "traits": [
+      "有翼"
+    ],
+    "isNew": false
+  },
+  {
+    "id": "jiuwei",
+    "name": "九尾狐",
+    "pinyin": "jiǔ wěi hú",
+    "chapter": "南山經",
+    "mountain": "青丘之山",
+    "kind": "走兽",
+    "title": "青丘有兽，其尾有九",
+    "quote": "其狀如狐而九尾，其音如嬰兒，能食人。",
+    "desc": "青丘之山有一种狐形的异兽，长着九条尾巴，声音像婴儿。原文并不把它仅仅描写成温柔的祥瑞，而保留了危险、陌生的一面。后世文学中的九尾狐形象又不断演变。",
+    "features": [
+      "狐形九尾",
+      "鸣声如婴",
+      "居于青丘"
+    ],
+    "concept": "以清晰可辨的九条尾巴组织画面。白色皮毛是本作的视觉选择，原文未指定毛色。",
+    "color": "#9b6d45",
+    "source": "https://zh.wikisource.org/wiki/山海經/南山經",
+    "image": "assets/generated/jiuwei-v1.webp",
+    "traits": [
+      "多尾"
+    ],
+    "isNew": false
+  },
+  {
+    "id": "luwu",
+    "name": "陆吾",
+    "pinyin": "lù wú",
+    "chapter": "西山經",
+    "mountain": "昆仑之丘",
+    "kind": "神祇",
+    "title": "人面虎身，九尾神守",
+    "quote": "其神狀虎身而九尾，人面而虎爪。",
+    "desc": "陆吾是昆仑之丘的神，虎身、人面、虎爪、九尾，掌管天之九部与天帝园囿的时节。原文并未记载八只脚。它的形态将人的神性与虎的力量叠合在一起。",
+    "features": [
+      "人面虎身",
+      "九尾虎爪",
+      "昆仑之神"
+    ],
+    "concept": "保留人面、虎身与九尾，山门和云海只为展陈叙事，不作为古籍建筑考据。",
+    "color": "#a7753c",
+    "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "image": "assets/generated/luwu-v1.webp",
+    "traits": [
+      "多尾",
+      "人面"
+    ],
+    "isNew": false
+  },
+  {
+    "id": "zhuyin",
+    "name": "烛阴",
+    "pinyin": "zhú yīn",
+    "chapter": "海外北經",
+    "mountain": "钟山",
+    "kind": "神祇",
+    "title": "视为昼，瞑为夜",
+    "quote": "鐘山之神，名曰燭陰，視為晝，瞑為夜，吹為冬，呼為夏。",
+    "desc": "钟山之神烛阴，人面、蛇身、赤色，身长千里。睁眼为白昼，闭眼为黑夜，呼吸与冬夏相连。这里依据《海外北经》的烛阴条目，不把其他篇章的不同表述混写成一段原文。",
+    "features": [
+      "人面蛇身",
+      "赤色千里",
+      "昼夜四时"
+    ],
+    "concept": "盘曲的赤色蛇躯横跨山峦，日月并置用于表达昼夜意象，画面比例属于神话演绎。",
+    "color": "#923f2d",
+    "source": "https://zh.wikisource.org/wiki/山海經/海外北經",
+    "image": "assets/generated/zhuyin-v1.webp",
+    "traits": [
+      "人面"
+    ],
+    "isNew": false
+  },
+  {
+    "id": "jingwei",
+    "name": "精卫",
+    "pinyin": "jīng wèi",
+    "chapter": "北山經",
+    "mountain": "发鸠之山",
+    "kind": "羽族",
+    "title": "衔木石，以堙东海",
+    "quote": "其狀如烏，文首，白喙，赤足，名曰精衛。",
+    "desc": "发鸠之山的精卫形似乌鸦，头部有花纹、白喙、红足。原文叙述炎帝之少女女娃溺于东海后化为此鸟，常衔西山的木石，填向东海。这是一则关于失落与坚持的神话。",
+    "features": [
+      "乌形文首",
+      "白喙赤足",
+      "衔木填海"
+    ],
+    "concept": "用口衔小枝、展翼越海表现原文行动，浪涛与石青色海面属于本作构图。",
+    "color": "#3f6671",
+    "source": "https://zh.wikisource.org/wiki/山海經/北山經",
+    "image": "assets/generated/jingwei-v1.webp",
+    "traits": [
+      "有翼"
+    ],
+    "isNew": false
+  },
+  {
+    "id": "huan",
+    "name": "讙",
+    "pinyin": "huān",
+    "chapter": "西山經",
+    "mountain": "翼望之山",
+    "kind": "走兽",
+    "title": "一目三尾，其声百音",
+    "quote": "其狀如貍，一目而三尾，名曰讙，其音如奪百聲。",
+    "desc": "翼望之山的讙，形似狸，只有一只眼睛，却有三条尾巴。原文还记载它能抵御凶害，以及与黄疸相关的古代观念。这些古代记载不作为现代医学或驱邪功效的依据。",
+    "features": [
+      "狸形一目",
+      "三尾分明",
+      "鸣声多变"
+    ],
+    "concept": "以单眼和三条尾巴作为唯一不可混淆的识别点，沉静的表情和山花为艺术设定。",
+    "color": "#72684a",
+    "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "image": "assets/generated/huan-v1.webp",
+    "traits": [
+      "独眼",
+      "多尾"
+    ],
+    "isNew": false
+  },
+  {
+    "id": "xingxing",
+    "name": "狌狌",
+    "pinyin": "xīng xīng",
+    "chapter": "南山經",
+    "mountain": "招摇之山",
+    "kind": "走兽",
+    "title": "白耳如禺，伏行人走",
+    "quote": "其狀如禺而白耳，伏行人走，其名曰狌狌。",
+    "desc": "南山经开篇的招摇之山，有一种像猿猴而长着白耳的兽，既能伏地行走，也能像人一样直立走动。古籍中的食用信仰属于当时的知识世界，本作只作文化解释。",
+    "features": [
+      "猿形白耳",
+      "伏行人走",
+      "出自招摇"
+    ],
+    "concept": "以白耳和猿形轮廓呈现朴拙灵性，不添加原文未记载的水灾征兆。",
+    "color": "#796248",
+    "source": "https://zh.wikisource.org/wiki/山海經/南山經",
+    "image": "assets/generated/xingxing-v1.webp",
+    "traits": [],
+    "isNew": false
+  },
+  {
+    "id": "qinyuan",
+    "name": "钦原",
+    "pinyin": "qīn yuán",
+    "chapter": "西山經",
+    "mountain": "昆仑之丘",
+    "kind": "羽族",
+    "title": "蜂形鸳大，螫兽枯木",
+    "quote": "其狀如蜂，大如鴛鴦，名曰欽原。",
+    "desc": "昆仑之丘的钦原形似蜂，却有鸳鸯那么大。原文称它螫鸟兽则死、螫树木则枯。这里保留古籍将其归入鸟的说法，同时呈现它独特的蜂形外观。它不是人面传信鸟。",
+    "features": [
+      "蜂形外观",
+      "大如鸳鸯",
+      "昆仑异鸟"
+    ],
+    "concept": "以昆虫般的翅、足与蜂形身体表现原文，矿物色翅纹和山林细节属于艺术演绎。",
+    "color": "#8e7544",
+    "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "image": "assets/generated/qinyuan-v1.webp",
+    "traits": [],
+    "isNew": false
+  },
+  {
+    "id": "zhujian",
+    "name": "诸犍",
+    "pinyin": "zhū jiān",
+    "chapter": "北山經",
+    "mountain": "单张之山",
+    "kind": "走兽",
+    "title": "豹形一目，长尾大声",
+    "quote": "其狀如豹而長尾，人首而牛耳，一目，名曰諸犍。",
+    "desc": "单张之山的诸犍，豹身、长尾、人首、牛耳、单眼，善于发出大声。原文还描写它行走时衔着尾巴，休息时盘着尾巴。它不是九尾异兽，不能与陆吾或九尾狐混写。",
+    "features": [
+      "豹身人首",
+      "牛耳一目",
+      "单条长尾"
+    ],
+    "concept": "以豹纹、单眼、牛耳与一条长尾构成辨识。神话人首采用非写实的古朴面容。",
+    "color": "#91713e",
+    "source": "https://zh.wikisource.org/wiki/山海經/北山經",
+    "image": "assets/generated/zhujian-v1.webp",
+    "traits": [
+      "独眼",
+      "人面"
+    ],
+    "isNew": false
+  },
+  {
+    "id": "baiye",
+    "name": "白鵺",
+    "pinyin": "bái yè",
+    "chapter": "北山經",
+    "mountain": "单张之山",
+    "kind": "羽族",
+    "title": "雉形文首，白翼黄足",
+    "quote": "其狀如雉，而文首、白翼、黃足，名曰白鵺。",
+    "desc": "单张之山的白鵺，形似雉鸟，头部有花纹、翅膀白色、足为黄色。它与诸犍出现在同一山名条目中。原文还附有古代的食用疗疾观念，本作只作文化记录，不作为现代功效依据。",
+    "features": [
+      "雉形文首",
+      "白色双翼",
+      "黄色双足"
+    ],
+    "concept": "保留雉形、文首、白翼、黄足。躯干羽色与配景属于艺术选择，不套用日本传说中鵺的复合兽形。",
+    "color": "#a7833f",
+    "source": "https://zh.wikisource.org/wiki/山海經/北山經",
+    "image": "assets/generated/baiye-v1.webp",
+    "traits": [
+      "有翼"
+    ],
+    "isNew": false
+  },
+  {
+    "id": "xuangui",
+    "name": "旋龟",
+    "pinyin": "xuán guī",
+    "chapter": "南山經",
+    "mountain": "杻阳之山",
+    "kind": "鳞介",
+    "title": "鸟首虺尾，鸣若判木",
+    "quote": "其狀如龜而鳥首虺尾，其名曰旋龜，其音如判木。",
+    "desc": "杻阳之山怪水中的旋龟，身体像龟，却有鸟的头和蛇的尾巴，声音像劈开木头。它与鹿蜀出现在同一个山名条目中。原文所附的佩用信仰在本作中仅作为古代文化记录。",
+    "features": [
+      "龟身鸟首",
+      "单条蛇尾",
+      "鸣如判木"
+    ],
+    "concept": "以龟甲、鸟喙和蛇尾固定形态。甲纹、体色与河石配景为艺术演绎。",
+    "color": "#526a64",
+    "source": "https://zh.wikisource.org/wiki/山海經/南山經",
+    "image": "assets/generated/xuangui-v1.webp",
+    "traits": [
+      "甲壳"
+    ],
+    "isNew": true
+  },
+  {
+    "id": "gudiao",
+    "name": "蛊雕",
+    "pinyin": "gǔ diāo",
+    "chapter": "南山經",
+    "mountain": "鹿吴之山",
+    "kind": "羽族",
+    "title": "雕形有角，声若婴啼",
+    "quote": "其狀如雕而有角，其音如嬰兒之音，是食人。",
+    "desc": "鹿吴之山泽更之水中的蛊雕，形似雕鸟而长角，声音像婴儿，原文还记有食人的叙述。本作依据这一段雕形有角的描述，不把其他后世复合兽形混入同一条目。",
+    "features": [
+      "雕形有角",
+      "鸣声如婴",
+      "泽更之水"
+    ],
+    "concept": "保留雕形与有角。原文未限定角数和羽色，插画选择一对短角与深色羽毛。",
+    "color": "#6a5f4b",
+    "source": "https://zh.wikisource.org/wiki/山海經/南山經",
+    "image": "assets/generated/gudiao-v1.webp",
+    "traits": [
+      "有翼",
+      "有角"
+    ],
+    "isNew": true
+  },
+  {
+    "id": "fenghuang",
+    "name": "凤凰",
+    "pinyin": "fèng huáng",
+    "chapter": "南山經",
+    "mountain": "丹穴之山",
+    "kind": "羽族",
+    "title": "鸡形五采，自歌自舞",
+    "quote": "其狀如雞，五采而文，名曰鳳皇。",
+    "desc": "丹穴之山的凤凰，原文作“凤皇”，形似鸡，羽毛五彩有纹。经文把德、义、礼、仁、信分别与头、翼、背、胸、腹的纹样相连，并记其自歌自舞。它是古代祥瑞观念的代表。",
+    "features": [
+      "鸡形五采",
+      "纹寓五德",
+      "自歌自舞"
+    ],
+    "concept": "以鸡形轮廓与五色羽纹为依据。长尾与冠羽作艺术组织，不把现代火鸟设定写入原文。",
+    "color": "#a76338",
+    "source": "https://zh.wikisource.org/wiki/山海經/南山經",
+    "image": "assets/generated/fenghuang-v1.webp",
+    "traits": [
+      "有翼"
+    ],
+    "isNew": true
+  },
+  {
+    "id": "wenyao",
+    "name": "文鳐鱼",
+    "pinyin": "wén yáo yú",
+    "chapter": "西山經",
+    "mountain": "泰器之山",
+    "kind": "鳞介",
+    "title": "鱼身鸟翼，白首赤喙",
+    "quote": "狀如鯉魚，魚身而鳥翼，蒼文而白首，赤喙。",
+    "desc": "泰器之山观水中的文鳐鱼，像鲤鱼，鱼身长着鸟翼，身上青灰色纹理，头白、口赤。原文说它常从西海游向东海，夜间飞行，又把其出现与丰穰相连。",
+    "features": [
+      "鲤形鸟翼",
+      "苍文白首",
+      "赤喙夜飞"
+    ],
+    "concept": "以鱼身、羽翼、白首与赤色口部组成识别。月夜海面用于表现原文夜飞，不替换成现代蝠鲼。",
+    "color": "#456a75",
+    "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "image": "assets/generated/wenyao-v1.webp",
+    "traits": [
+      "有翼",
+      "白首"
+    ],
+    "isNew": true
+  },
+  {
+    "id": "luoyu",
+    "name": "蠃鱼",
+    "pinyin": "luó yú",
+    "chapter": "西山經",
+    "mountain": "邽山",
+    "kind": "鳞介",
+    "title": "鱼身有翼，音如鸳鸯",
+    "quote": "蠃魚，魚身而鳥翼，音如鴛鴦，見則其邑大水。",
+    "desc": "邽山濛水中的蠃鱼，鱼身、鸟翼，叫声像鸳鸯，原文把它的出现与当地大水联系起来。它与穷奇位于同一山名条目。本作采用在线底本“蠃，音螺”的注音，记作 luó。",
+    "features": [
+      "鱼身鸟翼",
+      "鸣如鸳鸯",
+      "古记水兆"
+    ],
+    "concept": "原文没有指定头色和鳞色，采用朱砂与赭金作艺术设色。与文鳐鱼对读时，以文献差异而非虚构外形差异区分。",
+    "color": "#8e5a3d",
+    "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "image": "assets/generated/luoyu-v1.webp",
+    "traits": [
+      "有翼"
+    ],
+    "isNew": true
+  },
+  {
+    "id": "zhuyan",
+    "name": "朱厌",
+    "pinyin": "zhū yàn",
+    "chapter": "西山經",
+    "mountain": "小次之山",
+    "kind": "走兽",
+    "title": "猿形白首，赤足而行",
+    "quote": "其狀如猿，而白首赤足，名曰朱厭。",
+    "desc": "小次之山的朱厌，形似猿猴，头白、脚红，原文将其出现与战争联系起来。白首与赤足是形态的核心，兵兆属于古人的征兆叙述，不代表这种生命具有现代意义的预言能力。",
+    "features": [
+      "猿形白首",
+      "赤色双足",
+      "古记兵兆"
+    ],
+    "concept": "保留猿形、白首、赤足。身体毛色、姿态与岩石环境为本作的艺术选择。",
+    "color": "#925d45",
+    "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "image": "assets/generated/zhuyan-v1.webp",
+    "traits": [
+      "白首"
+    ],
+    "isNew": true
+  },
+  {
+    "id": "zheng",
+    "name": "狰",
+    "pinyin": "zhēng",
+    "chapter": "西山經",
+    "mountain": "章莪之山",
+    "kind": "走兽",
+    "title": "赤豹五尾，一角鸣石",
+    "quote": "其狀如赤豹，五尾一角，其音如擊石。",
+    "desc": "章莪之山的狰，形似赤色豹子，五条尾巴、一只角，声音像石头相击。它与毕方来自同一个山名条目。原文所在山地记为无草木，本作以裸岩配景回应这一环境。",
+    "features": [
+      "赤豹五尾",
+      "头生一角",
+      "鸣如击石"
+    ],
+    "concept": "五尾与单角须清楚可辨。豹纹和角的具体曲线属于艺术演绎，不添加额外肢体。",
+    "color": "#a25737",
+    "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "image": "assets/generated/zheng-v1.webp",
+    "traits": [
+      "多尾",
+      "有角"
+    ],
+    "isNew": true
+  },
+  {
+    "id": "bo",
+    "name": "駮",
+    "pinyin": "bó",
+    "chapter": "西山經",
+    "mountain": "中曲之山",
+    "kind": "走兽",
+    "title": "白身黑尾，一角虎爪",
+    "quote": "其狀如馬而白身黑尾，一角，虎牙爪，音如鼓音，其名曰駮。",
+    "desc": "中曲之山的駮，马形、白身、黑尾、一角，却有虎一般的牙与爪，声音如鼓。原文还记它捕食虎豹。它的识别点并非只有独角，虎牙虎爪同样重要。",
+    "features": [
+      "马形独角",
+      "白身黑尾",
+      "虎牙虎爪"
+    ],
+    "concept": "使用马形身躯、黑尾与虎式爪部；不画成普通独角马蹄足。牙齿可见但不添加血腥场景。",
+    "color": "#6b7064",
+    "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "image": "assets/generated/bo-v1.webp",
+    "traits": [
+      "有角"
+    ],
+    "isNew": true
+  },
+  {
+    "id": "yingzhao",
+    "name": "英招",
+    "pinyin": "yīng zhāo",
+    "chapter": "西山經",
+    "mountain": "槐江之山",
+    "kind": "神祇",
+    "title": "马身人面，虎文鸟翼",
+    "quote": "其狀馬身而人面，虎文而鳥翼。",
+    "desc": "槐江之山的神英招，马身、人面、虎纹、鸟翼，巡视四海。其所在山被记作天帝平圃。本作区分英招与陆吾：前者马身有翼，后者虎身九尾。",
+    "features": [
+      "马身人面",
+      "虎纹鸟翼",
+      "槐江之神"
+    ],
+    "concept": "以马身和双翼区别于陆吾。面容采取古朴非写实处理，山川与云海为艺术配景。",
+    "color": "#87664c",
+    "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "image": "assets/generated/yingzhao-v1.webp",
+    "traits": [
+      "人面",
+      "有翼"
+    ],
+    "isNew": true
+  },
+  {
+    "id": "qiongqi",
+    "name": "穷奇",
+    "pinyin": "qióng qí",
+    "chapter": "西山經",
+    "mountain": "邽山",
+    "kind": "走兽",
+    "title": "形如牛，毛如猬",
+    "quote": "其狀如牛，猬毛，名曰窮奇，音如獆狗。",
+    "desc": "这里采用《西山经》邽山条目的穷奇：形似牛、披着猬一般的毛，声音像狗。原文与注中另有不同形态的传述，本作在同一条目中不把它们混成单一外形，图像采用牛形猬毛版本。",
+    "features": [
+      "牛形猬毛",
+      "鸣声如犬",
+      "邽山异兽"
+    ],
+    "concept": "以牛形与密集的硬毛构图，不采用后世常见的有翼虎形。角、体色与面部细节为艺术演绎。",
+    "color": "#796044",
+    "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "image": "assets/generated/qiongqi-v1.webp",
+    "traits": [],
+    "isNew": true
+  },
+  {
+    "id": "fuzhu",
+    "name": "夫诸",
+    "pinyin": "fū zhū",
+    "chapter": "中山經",
+    "mountain": "敖岸之山",
+    "kind": "走兽",
+    "title": "白鹿四角，其名夫诸",
+    "quote": "其狀如白鹿而四角，名曰夫諸，見則其邑大水。",
+    "desc": "敖岸之山的夫诸，像白鹿而有四只角。经文称它的出现预示当地大水。四角是其关键形态，不宜用普通双角鹿代替；水兆则属于古代的征兆观念。",
+    "features": [
+      "白鹿四角",
+      "敖岸之山",
+      "古记水兆"
+    ],
+    "concept": "绘制四根具有独立角基的角，而非把双鹿角的分枝当作四角。白色毛发与四角以外的细节为艺术选择。",
+    "color": "#6e8272",
+    "source": "https://zh.wikisource.org/wiki/山海經/中山經",
+    "image": "assets/generated/fuzhu-v1.webp",
+    "traits": [
+      "有角"
+    ],
+    "isNew": true
+  },
+  {
+    "id": "kui",
+    "name": "夔",
+    "pinyin": "kuí",
+    "chapter": "大荒東經",
+    "mountain": "流波山",
+    "kind": "走兽",
+    "title": "苍身无角，一足出水",
+    "quote": "狀如牛，蒼身而無角，一足，出入水則必風雨。",
+    "desc": "东海流波山的夔，形似牛，青苍色身体，没有角，只有一只足。原文叙述它出入水便伴随风雨，光如日月，声如雷。这是《大荒东经》的形象，不把“夔一足”的其他文献解释混作同一段。",
+    "features": [
+      "牛形独足",
+      "苍身无角",
+      "声如雷霆"
+    ],
+    "concept": "不长角、只画一足。风雨和海波表现原文意象，不使用青铜器夔纹来替代完整形态。",
+    "color": "#4c6e71",
+    "source": "https://zh.wikisource.org/wiki/山海經/大荒東經",
+    "image": "assets/generated/kui-v1.webp",
+    "traits": [
+      "独足"
+    ],
+    "isNew": true
+  }
+]
